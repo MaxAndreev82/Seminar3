@@ -46,7 +46,6 @@
 
     git checkout, git checkout master
 
-<<<<<<< HEAD
 ## Ветвление
 
 ## Общая инф о ветвлении
