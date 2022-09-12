@@ -46,4 +46,8 @@
 
     git checkout, git checkout master
 
+<<<<<<< HEAD
 ## Ветвление
+=======
+## Ветвление
+>>>>>>> branching
